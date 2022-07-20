@@ -1,4 +1,4 @@
-<h2 align="left">Hello devs 🖥️! <br>My name is Thaís and I'm a Front-End Developer Junior, from Campo Grande/MS-BR</h2>
+<h2 align="left">Hello devs 🖥️! <br>My name is Thaís and I'm a Front-End Developer Junior, from Campo Grande, MS, BR</h2>
 
 ###
 
