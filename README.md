@@ -1,7 +1,7 @@
 <h2 align="left">Hello devs 🖥️!</h2>
-<h4 align="left"><br>My name is Thaís and I'm a Front-End Developer Junior</h4>
-<h4 align="left"><br>I'm from Campo Grande, MS, BR</h4>
-###
+<h4 align="left">My name is Thaís and I'm a Front-End Developer Junior</h4>
+<h4 align="left">I'm from Campo Grande, MS, BR</h4>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=thaisdsandim" height="150" alt="languages graph"  />
