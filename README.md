@@ -1,5 +1,6 @@
-<h2 align="left">Hello devs 🖥️! <br>My name is Thaís and I'm a Front-End Developer Junior, from Campo Grande, MS, BR</h2>
-
+<h2 align="left">Hello devs 🖥️!</h2>
+<h4 align="left"><br>My name is Thaís and I'm a Front-End Developer Junior</h4>
+<h4 align="left"><br>I'm from Campo Grande, MS, BR</h4>
 ###
 
 <div align="center">
