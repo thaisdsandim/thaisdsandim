@@ -5,11 +5,14 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thaisdsandim](https://github.com/thaisdsandim)
-
 - 📫 How to reach me **contatothais.sandim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M0Kn2HQXHYxxneEIw0qvX2X09UPzgLOK/view?usp=sharing](https://drive.google.com/file/d/1M0Kn2HQXHYxxneEIw0qvX2X09UPzgLOK/view?usp=sharing)
+- 📄 Know about my experiences in my [porfolio](https://drive.google.com/file/d/1M0Kn2HQXHYxxneEIw0qvX2X09UPzgLOK/view?usp=sharing)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=thaisdsandim" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=thaisdsandim" height="150" alt="languages graph"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
