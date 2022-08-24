@@ -1,11 +1,11 @@
 <h1 align="center">Hello devs 🖥️! My name is Thaís Sandim!!!</h1>
 <h3 align="center">I'm a Full-Stack Developer with an emphasis on Front-End</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/thaisdsandim/my-portfolio)
+- 🔭 I’m currently working on [Mundo Invertido](https://github.com/thaisdsandim/mundo-invertido)
 
 - 📫 How to reach me **contatothais.sandim@gmail.com**
 
-- 📄 Know about my experiences in my [porfolio](https://drive.google.com/file/d/1M0Kn2HQXHYxxneEIw0qvX2X09UPzgLOK/view?usp=sharing)
+- 📄 Know about my experiences in my [porfolio](https://thaisdsandim.github.io/my-portfolio/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=thaisdsandim" height="130" alt="stats graph"  />
