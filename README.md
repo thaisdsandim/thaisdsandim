@@ -1,7 +1,7 @@
 <h1 align="center">Hello devs 🖥️! My name is Thaís Sandim!!!</h1>
 <h3 align="center">I'm a Full-Stack Developer with an emphasis on Front-End</h3>
 
-- 🔭 I’m currently working on [Tortas da Terê](https://github.com/thaisdsandim/tortas-da-tere-front)
+- 🔭 I’m currently working on [Desafio Chefão]()
 
 - 📫 How to reach me **contatothais.sandim@gmail.com**
 
