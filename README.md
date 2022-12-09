@@ -1,10 +1,8 @@
-<h1 align="center">Hello devs 🖥️! My name is Thaís Sandim!!!</h1>
-<h3 align="center">I'm a Full-Stack Developer with an emphasis on Front-End</h3>
+<h1 align="center">Hello devs 🖥️! I'm Thaís Sandim!!!</h1>
+<h3 align="center">Full-Stack Developer with an emphasis on Front-End</h3>
 
-- 🔭 I’m currently working on [Desafio Chefão](https://github.com/thaisdsandim/MyJam-front)
-
+- 🔭 I’m currently working on []()
 - 📫 How to reach me **contatothais.sandim@gmail.com**
-
 - 📄 Know about my experiences in my [porfolio](https://thaisdsandim.github.io/my-portfolio/)
 
 <div align="center">
